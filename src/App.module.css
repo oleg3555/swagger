@@ -1,0 +1,15 @@
+.App {
+    flex-direction: column;
+    min-height: 100vh;
+    display: flex;
+}
+
+
+.copyright {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.8rem;
+    font-size: 1.2rem;
+    white-space: nowrap;
+}
